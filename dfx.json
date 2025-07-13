@@ -6,7 +6,7 @@
     },
     "nft":{
       "main": "src/NFT/nft.mo",
-      "type": "motoko"
+      "type": "motoko"    
     },
     "dpixelport_frontend": {
       "dependencies": [

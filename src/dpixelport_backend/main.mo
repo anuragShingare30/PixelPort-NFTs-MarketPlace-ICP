@@ -10,7 +10,7 @@ import Nat "mo:base/Nat";
 import Bool "mo:base/Bool";
 import Iter "mo:base/Iter";
 
-
+// main contract of the PixelPort NFT Marketplace
 
 actor PixelPort {
   // IN THIS WE ARE GOING TO CREATE THE SIMILAR THING THAT WE DID IN COMMAND LINE, BUT USING BACKEND.

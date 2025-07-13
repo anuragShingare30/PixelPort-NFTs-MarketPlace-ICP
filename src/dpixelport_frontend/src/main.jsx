@@ -5,6 +5,8 @@ import './index.css';
 import { Principal } from '@dfinity/principal';
 import { AuthClient } from "@dfinity/auth-client";
 
+// frontend code for NFT-MARKETPLACE-ICP
+
 const CURRENT_USER_ID = Principal.fromText("2vxsx-fae");
 export default CURRENT_USER_ID;
 

@@ -2,6 +2,8 @@ import Text "mo:base/Text";
 import Principal "mo:base/Principal"; 
 import Nat8 "mo:base/Nat8"; 
 
+// backend code for NFT-MARKETPLACE-ICP
+
 // HERE WE ARE CREATING ACTOR CLASS TO CREATE CANISTER SMART CONTRACTS PROGRAMATICALLY.
 actor class NFT(name:Text, owner:Principal, imageContent:[Nat8]) = this {
     
